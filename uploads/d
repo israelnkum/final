@@ -1,0 +1,180 @@
+<div class="card-body">
+                      <!-- Classes -->
+                     <div id="class_accordion">
+                         <div class="card">
+                             <div class="card-header text-center" >
+                                 <h5 class="mb-0">
+                                     <a href="#" class="badge badge-primary" data-toggle="collapse" data-target="#hnd_level100" aria-expanded="true" aria-controls="hnd_level100">
+                                         HND
+                                     </a>
+
+                                     <a href="#" class="badge badge-success" data-toggle="collapse" data-target="#dimploma_level100" aria-expanded="false" aria-controls="dimploma_level100">
+                                         Diploma
+                                     </a>
+
+                                     <a href="#" class="badge  badge-warning" data-toggle="collapse" data-target="#btech_level100" aria-expanded="false" aria-controls="btech_level100">
+                                         BTECH
+                                     </a>
+
+                                 </h5>
+                             </div>
+                             <div id="hnd_level100" class="collapse show" aria-labelledby="lv_100HND_head" data-parent="#class_accordion">
+                                 <div class="card-body">
+                                     <div class="row">
+                                <!--hnd_level100 Subject -->
+                                         <div class="col-sm-3">
+                                             <div class="card-text">
+                                                  <button class="btn btn-link" data-toggle="collapse" data-target="#lv_100cplusplus" aria-expanded="true" aria-controls="lv_100cplusplus">
+                                                    C++ Programming
+                                                  </button>
+                                             </div>
+
+                                             <div class="card-text">
+                                                  <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#lv_100InfoTechI" aria-expanded="false" aria-controls="lv_100InfoTechI">
+                                                   Info Tech
+                                                 </button>
+                                             </div>
+
+
+                                             <div class="card-text">
+                                                  <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#lv_100DiscreteMath" aria-expanded="false" aria-controls="lv_100DiscreteMath">
+                                                    Discrete Math
+                                                  </button>
+                                             </div>
+
+                                             <div class="card-text">
+                                                  <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#lv_100_comApps" aria-expanded="false" aria-controls="lv_100_comApps">
+                                                    Comm Apps
+                                                  </button>
+                                             </div>
+
+
+
+                                             <div class="card-text">
+                                                  <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#lv_100_EconomicsI" aria-expanded="false" aria-controls="lv_100_EconomicsI">
+                                                    Economics I
+                                                  </button>
+                                             </div>
+
+                                             <div class="card-text">
+                                                  <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#lv_100_CommSkillsI" aria-expanded="false" aria-controls="lv_100_CommSkillsI">
+                                                    Comm Skills I
+                                                  </button>
+                                             </div>
+
+                                             <div class="card-text">
+                                                  <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#lv_100_EntrepreneurshipI" aria-expanded="false" aria-controls="lv_100_EntrepreneurshipI">
+                                                    Entrepreneurship I
+                                                  </button>
+                                             </div>
+                                         </div>
+                                <!--hnd_level100 Subject -->
+
+                                <!--hnd_level100 Questions -->
+                                <div class="col-sm-9">
+                                     <div id="lv_100_HND_accordion">
+                                         <!-- lv_100CplusPlus -->
+                                        <div class="card">
+                                            <div id="lv_100cplusplus" class="collapse show" aria-labelledby="CplusplusHead" data-parent="#lv_100_HND_accordion">
+                                                <div class="card-header text-danger float-right">
+                                                    C++ Programming
+                                                </div>
+                                                <div class="card-body">
+                                                    C++ Programming
+                                                </div>
+                                            </div> <!-- lv_100CplusPlus -->
+                                        </div> <!-- card -->
+
+
+                                        <div class="card">
+                                            <div id="lv_100InfoTechI" class="collapse" aria-labelledby="infoTechHead" data-parent="#lv_100_HND_accordion">
+                                                <div class="card-header text-danger float-right">
+                                                    Info-Tech I
+                                                </div>
+                                                <div class="card-body">
+                                                    Info-Tech I
+                                                </div>
+                                            </div>
+                                        </div><!-- card -->
+
+                                        <div class="card">
+                                            <div id="lv_100DiscreteMath" class="collapse" aria-labelledby="DiscreteMathHead" data-parent="#lv_100_HND_accordion">
+                                                <div class="card-header text-danger float-right">
+                                                    Discrete Math
+                                                </div>
+                                                <div class="card-body">
+                                                    Discrete Math
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                        <div class="card">
+                                            <div id="lv_100_comApps" class="collapse" aria-labelledby="DiscreteMathHead" data-parent="#lv_100_HND_accordion">
+                                                <div class="card-header text-danger float-right">
+                                                    Computer Applications
+                                                </div>
+                                                <div class="card-body">
+                                                    Computer Applications
+                                                </div>
+                                            </div>
+                                        </div>
+
+
+                                        <div class="card">
+                                            <div id="lv_100_EconomicsI" class="collapse" aria-labelledby="EconomicsIHead" data-parent="#lv_100_HND_accordion">
+                                                <div class="card-header text-danger float-right">
+                                                    Economics I
+                                                </div>
+                                                <div class="card-body">
+                                                    EconomicsI
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                        <div class="card">
+                                            <div id="lv_100_CommSkillsI" class="collapse" aria-labelledby="CommSkillsIHead" data-parent="#lv_100_HND_accordion">
+                                                <div class="card-header text-danger float-right">
+                                                    CommSkills I
+                                                </div>
+                                                <div class="card-body">
+                                                    CommSkillsI
+                                                </div>
+                                            </div>
+                                        </div>
+
+
+                                        <div class="card">
+                                            <div id="lv_100_EntrepreneurshipI" class="collapse" aria-labelledby="EntrepreneurshipIHead" data-parent="#lv_100_HND_accordion">
+                                                <div class="card-header text-danger float-right">
+                                                    Entrepreneurship I
+                                                </div>
+                                                <div class="card-body">
+                                                    EntrepreneurshipI
+                                                </div>
+                                            </div>
+                                        </div><!--card -->
+                                     </div><!--hnd_level100 Accordion -->
+                                </div><!--Col Sm-9 -->
+                                <!--hnd_level100 Questions -->
+                           </div>
+                      </div>
+                      </div>
+                      </div>
+                      <div class="card">
+                      <div id="dimploma_level100" class="collapse" aria-labelledby="lv_100Diploma_head" data-parent="#class_accordion">
+                      <div class="card-body">
+                           <h1 class="display-1"> Diploma</h1>
+
+                      </div>
+                      </div>
+                      </div>
+                      <div class="card">
+                      <div id="btech_level100" class="collapse" aria-labelledby="lv_100BTEch_head" data-parent="#class_accordion">
+                      <div class="card-body">
+                           <h1 class="display-4">Oops! BTECH is Not Available</h1>
+                      </div>
+                      </div>
+                      </div>
+                      </div>
+                 </div>
+<hr>
