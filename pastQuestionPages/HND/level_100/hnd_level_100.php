@@ -291,13 +291,13 @@
 
 
                                                 <!-- Diploma Evening sem 1 Page -->
-                                                <div class="card">
+
                                                     <div id="diplomaEveningSem1" class="collapse" aria-labelledby="headingOne" data-parent="#accordionlevel_100_sem1">
                                                         <div class="card-body">
                                                             <h1 class="display-1">Diploma Evening</h1>
                                                         </div>
                                                     </div>
-                                                </div> <!-- Diploma Evening sem 1 Page -->
+                                                <!-- Diploma Evening sem 1 Page -->
 
                                                 <!-- Diploma Regular sem 1 Page -->
 
@@ -598,27 +598,27 @@
                                         </div> <!-- hnd Evening sem 1 Page -->
 
 
-                                        <!-- Diploma Evening sem 1 Page -->
+                                        <!-- Diploma Evening sem 2 Page -->
                                         <div class="card">
-                                            <div id="diplomaEveningSem1" class="collapse" aria-labelledby="headingOne" data-parent="#accordionlevel_100_sem1">
+                                            <div id="diplomaEveningSem2" class="collapse" aria-labelledby="headingOne" data-parent="#accordionlevel_100_sem1">
                                                 <div class="card-body">
                                                     <h1 class="display-1">Diploma Evening</h1>
                                                 </div>
                                             </div>
-                                        </div> <!-- Diploma Evening sem 1 Page -->
+                                        </div> <!-- Diploma Evening sem 2 Page -->
 
-                                        <!-- Diploma Regular sem 1 Page -->
+                                        <!-- Diploma Regular sem 2 Page -->
                                         <div class="card">
-                                            <div id="diplomaRegularSem1" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionlevel_100_sem1">
+                                            <div id="diplomaRegularSem2" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionlevel_100_sem1">
                                                 <div class="card-body">
                                                     <h1 class="display-1">Diploma Regular</h1>
                                                 </div>
                                             </div>
-                                        </div> <!-- Diploma Regular sem 1 Page -->
+                                        </div> <!-- Diploma Regular sem 2 Page -->
 
                                         <!-- BTECH weekend sem 1 Page -->
                                         <div class="card">
-                                            <div id="btechWeekendSem1" class="collapse" aria-labelledby="headingThree" data-parent="#accordionlevel_100_sem1">
+                                            <div id="btechWeekendSem2" class="collapse" aria-labelledby="headingThree" data-parent="#accordionlevel_100_sem1">
                                                 <div class="card-body">
                                                     <h1 class="display-1">Oops! BTECH is NOW Coming </h1>
                                                 </div>

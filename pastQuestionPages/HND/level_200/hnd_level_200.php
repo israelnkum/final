@@ -106,7 +106,35 @@
                                                             Networking I
                                                         </div>
                                                         <div class="card-body">
-                                                            Networking I
+                                                           <div class="row">
+                                                               <div class="col-sm-6">
+                                                                   <div class="card-header">
+                                                                       End Of Semester
+                                                                   </div>
+                                                                   <div class="card-body">
+                                                                       <?php
+
+                                                                       $files = scandir('pastQuestionFiles/HND_level_200/semester_1');
+                                                                       for ($i = 2; $i < count($files); $i++){
+                                                                           ?>
+                                                                           <div class="card-text">
+                                                                               <a class="text-primary" target="_blank" href="pastQuestionFiles/HND_level_200/semester_1/<?php echo $files[$i]?>"><?php echo $files[$i]?></a>
+                                                                           </div>
+                                                                           <?php
+                                                                       }
+                                                                       ?>
+                                                                   </div>
+                                                               </div>
+
+                                                               <div class="col-sm-6">
+                                                                   <div class="card-header">
+                                                                       Mid-Semester
+                                                                   </div>
+                                                                   <div class="card-body">
+                                                                       Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci eaque eum excepturi explicabo, fuga minus non placeat possimus quisquam quod sed sequi sunt? Ducimus earum illum maxime, quaerat soluta tenetur.
+                                                                   </div>
+                                                               </div>
+                                                           </div>
                                                         </div>
                                                     </div>
                                                     <div id="web-techI200Sem1" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion200sem1">
