@@ -1,4 +1,4 @@
-<!-- Level 100-->
+
 <div class="btn_levels">
     <a data-toggle="collapse" data-target="#level_100_Accordion" aria-expanded="true" aria-controls="level_100_Accordion" style="font-size : 35px;  max-width: 300px;" href="#" class="badge badge-pill badge-primary">Level 100</a>
 </div>
@@ -9,7 +9,7 @@
     <a data-toggle="collapse" data-target="#level_300_Accordion" aria-expanded="false" aria-controls="level_300_Accordion" style="font-size: 35px; max-width: 300px;" href="#" class="badge badge-pill badge-success">Level 300</a>
 </div>
 
-
+<!-- Level 100-->
 <div id="level_100_Accordion" class="collapse" aria-labelledby="level100_head" data-parent="#level_accordion">
         <div id="lv_100_HNDsemester1_accordion">
             <div class="card-body text-left">
@@ -330,7 +330,7 @@
                             </div>
                             <div class="row">
                                 <div class="col-sm-12">
-                                    <div id="accordionlevel_100_sem1" style="padding: 0;">
+                                    <div id="accordionlevel_100_sem2" style="padding: 0;">
                                         <div class="card-header text-center" style="width: auto;" id="headingOne" >
                                             <!--level 100 hnd sem 1 dropdown-->
                                             <div style="padding: 2px;" class="btn-group" role="group" aria-label="Button group with nested dropdown">
@@ -371,7 +371,7 @@
                                         </div>
 
                                         <!-- hnd REgular sem 1 Page -->
-                                        <div id="hndRegularSem2" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionlevel_100_sem1">
+                                        <div id="hndRegularSem2" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionlevel_100_sem2">
                                             <div class="row">
                                                 <div class="col-sm-3">
                                                     <div class="card-text">
@@ -380,7 +380,7 @@
                                                         </button>
                                                     </div>
                                                     <div class="card-text">
-                                                        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#info-techSem2" aria-expanded="false" aria-controls="info-techSem2">
+                                                        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#info-techIISem2" aria-expanded="false" aria-controls="info-techIISem2">
                                                             Info-Tech II
                                                         </button>
                                                     </div>
@@ -391,7 +391,7 @@
                                                     </div>
 
                                                     <div class="card-text">
-                                                        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#Economics_ISem2" aria-expanded="false" aria-controls="Economics_IISem2">
+                                                        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#Economics_IISem2" aria-expanded="false" aria-controls="Economics_IISem2">
                                                             Economics II
                                                         </button>
                                                     </div>
@@ -433,47 +433,47 @@
                                                                 Info-Tech II
                                                             </div>
                                                         </div>
-                                                        <div id="DatabaseConceptIISem2" class="collapse" aria-labelledby="headingThree" data-parent="#accordionLvl100Sem2">
+                                                        <div id="DatabaseConceptISem2" class="collapse" aria-labelledby="headingThree" data-parent="#accordionLvl100Sem2">
                                                             <div class="card-header float-right text-danger">
-                                                                Computer Applications
+                                                                DatabaseConcept I
                                                             </div>
                                                             <div class="card-body">
-                                                                ComputerApplications
+                                                                DatabaseConcept I
                                                             </div>
                                                         </div>
 
-                                                        <div id="Economics_I" class="collapse" aria-labelledby="headingThree" data-parent="#accordionLvl100Sem2">
+                                                        <div id="Economics_IISem2" class="collapse" aria-labelledby="headingThree" data-parent="#accordionLvl100Sem2">
                                                             <div class="card-header float-right  text-danger">
-                                                                Economics I
+                                                                Economics II
                                                             </div>
                                                             <div class="card-body">
-                                                                Economics I
+                                                                Economics II
                                                             </div>
                                                         </div>
 
-                                                        <div id="Comm_Skils_I" class="collapse" aria-labelledby="headingThree" data-parent="#accordionLvl100Sem2">
+                                                        <div id="Comm_Skils_IISem2" class="collapse" aria-labelledby="headingThree" data-parent="#accordionLvl100Sem2">
                                                             <div class="card-header float-right text-danger">
-                                                                Comm-Skils I
+                                                                Comm-Skils II
                                                             </div>
                                                             <div class="card-body">
-                                                                Comm-Skils I
+                                                                Comm-Skils II
                                                             </div>
                                                         </div>
-                                                        <div id="Entreprenuership_I" class="collapse" aria-labelledby="headingThree" data-parent="#accordionLvl100Sem2">
+                                                        <div id="AfricanStudiesSem2" class="collapse" aria-labelledby="headingThree" data-parent="#accordionLvl100Sem2">
                                                             <div class="card-header float-right  text-danger">
-                                                                Entreprenuership I
+                                                                African Studies
                                                             </div>
                                                             <div class="card-body">
-                                                                Entreprenuership I
+                                                                African Studies
                                                             </div>
                                                         </div>
 
-                                                        <div id="DiscreteMath" class="collapse" aria-labelledby="headingThree" data-parent="#accordionLvl100Sem2">
+                                                        <div id="MathAndStatSem2" class="collapse" aria-labelledby="headingThree" data-parent="#accordionLvl100Sem2">
                                                             <div class="card-header float-right text-danger">
-                                                                Discrete Math
+                                                                Math And Stats
                                                             </div>
                                                             <div class="card-body">
-                                                                Discrete Math
+                                                                Math And Stats
                                                             </div>
                                                         </div>
 
@@ -481,115 +481,115 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                        </div> <!-- hnd REgular sem 1 Page -->
+                                        </div> <!-- hnd REgular sem 2 Page -->
 
 
-                                        <!-- hnd Evening sem 1 Page -->
+                                        <!-- hnd Evening sem 2 Page -->
 
-                                        <div id="hndEveningSem1" class="collapse" aria-labelledby="headingOne" data-parent="#accordionlevel_100_sem1">
+                                        <div id="hndEveningSem2" class="collapse" aria-labelledby="headingOne" data-parent="#accordionlevel_100_sem2">
                                             <div class="row ">
                                                 <div class="col-sm-3 text-left">
                                                     <div class="card-text">
-                                                        <button class="btn btn-link" data-toggle="collapse" data-target="#cPlusPlusEvening" aria-expanded="true" aria-controls="cPlusPlusEvening">
-                                                            C++ Programming
+                                                        <button class="btn btn-link" data-toggle="collapse" data-target="#JavaEveningSem2" aria-expanded="true" aria-controls="JavaEveningSem2">
+                                                            Java Programming
                                                         </button>
                                                     </div>
                                                     <div class="card-text">
-                                                        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#info-techEvening" aria-expanded="false" aria-controls="info-techEvening">
-                                                            Info-Tech
+                                                        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#info-techIIEveningSEm2" aria-expanded="false" aria-controls="info-techIIEveningSem2">
+                                                            Info-Tech II
                                                         </button>
                                                     </div>
                                                     <div class="card-text">
-                                                        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#ComputerApplicationsEvening" aria-expanded="false" aria-controls="ComputerApplicationsEvening">
-                                                            Computer Applications
-                                                        </button>
-                                                    </div>
-
-                                                    <div class="card-text">
-                                                        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#Economics_IEvening" aria-expanded="false" aria-controls="Economics_IEvening">
-                                                            Economics I
+                                                        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#DatabaseConceptISem2Evening" aria-expanded="false" aria-controls="DatabaseConceptISem2Evening">
+                                                            DatabaseConcept I
                                                         </button>
                                                     </div>
 
                                                     <div class="card-text">
-                                                        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#Comm_Skils_IEvening" aria-expanded="false" aria-controls="Comm_Skils_IEvening">
-                                                            Comm-Skils I
+                                                        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#Economics_IIEveningSem2" aria-expanded="false" aria-controls="Economics_IIEveningSem2">
+                                                            Economics II
                                                         </button>
                                                     </div>
 
                                                     <div class="card-text">
-                                                        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#Entreprenuership_IEvening" aria-expanded="false" aria-controls="Entreprenuership_IEvening">
-                                                            Entreprenuership I
+                                                        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#Comm_Skils_IIEveningSem2" aria-expanded="false" aria-controls="Comm_Skils_IIEveningSem2">
+                                                            Comm-Skils II
                                                         </button>
                                                     </div>
 
                                                     <div class="card-text">
-                                                        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#DiscreteMathEvening" aria-expanded="false" aria-controls="DiscreteMathEvening">
-                                                            Discrete Math
+                                                        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#AfricanStudiesEvening2" aria-expanded="false" aria-controls="AfricanStudiesEvening2">
+                                                            African Studies
+                                                        </button>
+                                                    </div>
+
+                                                    <div class="card-text">
+                                                        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#MathAndStatEveningSem2" aria-expanded="false" aria-controls="MathAndStatEveningSem2">
+                                                            Maths And Stats
                                                         </button>
                                                     </div>
                                                 </div>
 
                                                 <div class="col-sm-9">
-                                                    <div id="accordionSem1Evening" style="padding: 0">
-                                                        <div id="cPlusPlusEvening" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionSem1Evening">
+                                                    <div id="accordionSem2Evening" style="padding: 0">
+                                                        <div id="JavaEveningSem2" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionSem2Evening">
                                                             <div class="card-header float-right text-danger">
-                                                                C++ Programming
+                                                                Java Programming
                                                             </div>
                                                             <div class="card-body">
-                                                                C Plus Plus Evening
+                                                                Java Evening
                                                             </div>
                                                         </div>
-                                                        <div id="info-techEvening" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSem1Evening">
+                                                        <div id="info-techIIEveningSEm2" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSem2Evening">
                                                             <div class="card-header float-right text-danger">
-                                                                Info-Tech
+                                                                Info-Tech II
                                                             </div>
                                                             <div class="card-body">
                                                                 Info-Tech Evening
                                                             </div>
                                                         </div>
-                                                        <div id="ComputerApplicationsEvening" class="collapse" aria-labelledby="headingThree" data-parent="#accordionSem1Evening">
+                                                        <div id="DatabaseConceptISem2Evening" class="collapse" aria-labelledby="headingThree" data-parent="#accordionSem2Evening">
                                                             <div class="card-header float-right text-danger">
-                                                                Computer Applications
+                                                                Database Concept I
                                                             </div>
                                                             <div class="card-body">
-                                                                ComputerApplications Evening
+                                                                Database Concept I Evening
                                                             </div>
                                                         </div>
 
-                                                        <div id="Economics_IEvening" class="collapse" aria-labelledby="headingThree" data-parent="#accordionSem1Evening">
+                                                        <div id="Economics_IIEveningSem2" class="collapse" aria-labelledby="headingThree" data-parent="#accordionSem2Evening">
                                                             <div class="card-header float-right text-danger">
-                                                                Economics I
+                                                                Economics II
                                                             </div>
                                                             <div class="card-body">
-                                                                Economics I Evening
+                                                                Economics II Evening
                                                             </div>
                                                         </div>
 
-                                                        <div id="Comm_Skils_IEvening" class="collapse" aria-labelledby="headingThree" data-parent="#accordionSem1Evening">
+                                                        <div id="Comm_Skils_IIEveningSem2" class="collapse" aria-labelledby="headingThree" data-parent="#accordionSem2Evening">
                                                             <div class="card-header float-right text-danger">
-                                                                Comm-Skils I
+                                                                Comm-Skils II
                                                             </div>
                                                             <div class="card-body">
-                                                                Comm-Skils I Evening
+                                                                Comm-Skils II Evening
                                                             </div>
                                                         </div>
 
-                                                        <div id="Entreprenuership_IEvening" class="collapse" aria-labelledby="headingThree" data-parent="#accordionSem1Evening">
+                                                        <div id="AfricanStudiesEvening2" class="collapse" aria-labelledby="headingThree" data-parent="#accordionSem2Evening">
                                                             <div class="card-header float-right text-danger">
-                                                                Entreprenuership I Evening
+                                                                African Studies Evening
                                                             </div>
                                                             <div class="card-body">
-                                                                Entreprenuership I
+                                                                African Studies I
                                                             </div>
                                                         </div>
 
-                                                        <div id="DiscreteMathEvening" class="collapse" aria-labelledby="headingThree" data-parent="#accordionSem1Evening">
+                                                        <div id="MathAndStatEveningSem2" class="collapse" aria-labelledby="headingThree" data-parent="#accordionSem2Evening">
                                                             <div class="card-header float-right text-danger">
-                                                                Discrete Math
+                                                                Maths And Stats
                                                             </div>
                                                             <div class="card-body">
-                                                                DiscreteMathEvening
+                                                                Maths And Stats Evening
                                                             </div>
                                                         </div>
                                                     </div>
