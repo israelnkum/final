@@ -6,10 +6,6 @@ include("includes/header.php");
 
 <header class="masthead text-center">
     <div class="intro-body">
-
-        <?php
-        include("includes/pastNavs.php");
-        ?>
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 mx-auto">
@@ -27,7 +23,7 @@ include("includes/header.php");
          <div class="col-sm-12 text-center">
 
                  <div id="level_accordion" class="text-dark">
-                     
+
                      <?php
                      include ('pastQuestionPages/HND/level_100/hnd_level_100.php');
                      include ('pastQuestionPages/HND/level_200/hnd_level_200.php');

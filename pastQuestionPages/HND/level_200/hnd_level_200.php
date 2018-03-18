@@ -55,7 +55,7 @@
                                     </div>
 
                                     <!-- hnd REgular sem 1 Page -->
-                                    <div id="hnd200RegularSem1" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionlevel_200_sem1">
+                                    <div id="hnd200RegularSem1" class="collapse" aria-labelledby="headingOne" data-parent="#accordionlevel_200_sem1">
                                         <div class="row">
                                             <div class="col-sm-3">
                                                 <div class="card-text">
@@ -101,10 +101,8 @@
 
                                             <div class="col-sm-9">
                                                 <div id="accordion200sem1" style="padding: 0">
-                                                    <div id="networkingI200Sem1" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion200sem1">
-                                                        <div class="card-header float-right text-danger">
-                                                            Networking I
-                                                        </div>
+                                                    <div id="networkingI200Sem1" class="collapse" aria-labelledby="headingOne" data-parent="#accordion200sem1">
+
                                                         <div class="card-body">
                                                            <div class="row">
                                                                <div class="col-sm-6">
@@ -114,11 +112,14 @@
                                                                    <div class="card-body">
                                                                        <?php
 
-                                                                       $files = scandir('pastQuestionFiles/HND_level_200/semester_1');
+                                                                       $files = scandir('pastQuestionFiles/HND_level_200/semester_1/networking_I');
                                                                        for ($i = 2; $i < count($files); $i++){
                                                                            ?>
                                                                            <div class="card-text">
-                                                                               <a class="text-primary" target="_blank" href="pastQuestionFiles/HND_level_200/semester_1/<?php echo $files[$i]?>"><?php echo $files[$i]?></a>
+                                                                               <span class="text-primary"><?php echo $files[$i]?></span> <br>
+                                                                               <a class="badge badge-pill badge-warning" target="_blank" href="pastQuestionFiles/HND_level_200/semester_1/<?php echo $files[$i]?>"><i class="fa fa-eye"> View </i></a>
+                                                                               <a class="badge badge-pill badge-danger" download="<?php echo $files[$i]?>" href="pastQuestionFiles/HND_level_200/semester_1/<?php echo $files[$i]?>"><i class="fa fa-download"> Download</i></a>
+                                                                           <hr>
                                                                            </div>
                                                                            <?php
                                                                        }
@@ -311,31 +312,12 @@
                                         </div>
                                     </div> <!-- hnd Evening sem 1 Page -->
 
-
-                                    <!-- Diploma Evening sem 1 Page -->
-                                    <div id="diploma200EveningSem1" class="collapse" aria-labelledby="headingOne" data-parent="#accordionlevel_200_sem1">
-                                        <div class="card-body">
-                                            <h1 class="display-1">Diploma Evening 200</h1>
-                                        </div>
-                                    </div><!-- Diploma Evening sem 1 Page -->
-
-                                    <!-- Diploma Regular sem 1 Page -->
-
-                                    <div id="diploma200RegularSem1" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionlevel_200_sem1">
-                                        <div class="card-body">
-                                            <h1 class="display-1">Diploma Regular 200</h1>
-                                        </div>
-                                    </div>
-                                    <!-- Diploma Regular sem 1 Page -->
+                                    <?php
+                                    include ('pastQuestionPages/DIPLOMA/diplomaLevel_100/diploma_level_200.php');
+                                    include ('pastQuestionPages/BTECH/btech_level_200/btech_level_200.php');
+                                    ?>
 
 
-                                    <!-- BTECH weekend sem 1 Page -->
-                                    <div id="btech200WeekendSem1" class="collapse" aria-labelledby="headingThree" data-parent="#accordionlevel_200_sem1">
-                                        <div class="card-body">
-                                            <h1 class="display-1">Oops! BTECH is NOW Coming 200 </h1>
-                                        </div>
-                                    </div>
-                                    <!-- BTECH weekend sem 1 Page -->
                                 </div>
                             </div>
                         </div><!-- row -->
