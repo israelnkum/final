@@ -42,27 +42,36 @@
       </ul>
     </div>
 
-    <div class="col-sm-3">
+    <div class="col-sm-2">
       <h6 class="mt-2" style="color: grey;">Quick links</h6>
       <ul class="list-unstyled">
         <li> <a href="https://ttuportal.com" class="text-white" target="_blank">Student portal</a></li>
-        <li> <a href="https://records.ttuportal.com" class="text-white" target="_blank">Semester registration stpes</a></li>
+        <li> <a href="https://records.ttuportal.com" class="text-white" target="_blank">Semester registration</a></li>
         <li> <a href="https://qualityassurance.ttu.edu.gh" class="text-white" target="_blank">Lectures Assessement</a></li>
         <li> <a href="https://liaison.com " target="_blank" class="text-white">Industrial Liason</a></li>
       </ul>
     </div>
 
-    <div class="col-sm-3">
+    <div class="col-sm-4">
       <h6 class="mt-2" style="color: grey;">What we do</h6>
       <ul class="list-unstyled">
-        <li>Web Application Development</li>
-        <li>Desktop Application Development</li>
-        <li>Mobile Application Development</li>
-        <li>Networking</li>
+        <li>HND in Information Communication Technlogy</li>
+        <li>Diploma in Inoformation Technology</li>
       </ul>
     </div>
 
   </div>
+    <hr>
+
+    <div class="row">
+        <div class="col-sm-12">
+            <h6 class="mt-2" style="color: grey;">Upcoming Programs</h6>
+            <ul class="list-unstyled">
+                <li>HND in Information Communication Technlogy</li>
+                <li>Diploma in Inoformation Technology</li>
+            </ul>
+        </div>
+    </div>
 </div>
 </footer>
 

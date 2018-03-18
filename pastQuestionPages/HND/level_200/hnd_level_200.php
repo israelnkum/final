@@ -196,19 +196,19 @@
                                                 </div>
 
                                                 <div class="card-text">
-                                                    <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#Comm_Skils_IEvening" aria-expanded="false" aria-controls="Comm_Skils_IEvening">
+                                                    <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#hard_techI200Sem1Evening" aria-expanded="false" aria-controls="hard_techI200Sem1Evening">
                                                         Hardware Technology
                                                     </button>
                                                 </div>
 
                                                 <div class="card-text">
-                                                    <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#Entreprenuership_IEvening" aria-expanded="false" aria-controls="Entreprenuership_IEvening">
+                                                    <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#accounting_I200Sem1Evening" aria-expanded="false" aria-controls="accounting_I200Sem1Evening">
                                                         Accounting I
                                                     </button>
                                                 </div>
 
                                                 <div class="card-text">
-                                                    <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#DiscreteMathEvening" aria-expanded="false" aria-controls="DiscreteMathEvening">
+                                                    <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#researchMethod200Sem1Evening" aria-expanded="false" aria-controls="researchMethod200Sem1Evening">
                                                         Research Method
                                                     </button>
                                                 </div>
@@ -252,30 +252,30 @@
                                                         </div>
                                                     </div>
 
-                                                    <div id="Comm_Skils_IEvening" class="collapse" aria-labelledby="headingThree" data-parent="#accordion200Sem1Evening">
+                                                    <div id="hard_techI200Sem1Evening" class="collapse" aria-labelledby="headingThree" data-parent="#accordion200Sem1Evening">
                                                         <div class="card-header float-right text-danger">
-                                                            Comm-Skils I
+                                                            Hardware Technology I
                                                         </div>
                                                         <div class="card-body">
-                                                            Comm-Skils I Evening
+                                                            Hardware Technology Evening I
                                                         </div>
                                                     </div>
 
-                                                    <div id="Entreprenuership_IEvening" class="collapse" aria-labelledby="headingThree" data-parent="#accordion200Sem1Evening">
+                                                    <div id="accounting_I200Sem1Evening" class="collapse" aria-labelledby="headingThree" data-parent="#accordion200Sem1Evening">
                                                         <div class="card-header float-right text-danger">
-                                                            Entreprenuership I Evening
+                                                            Accouting I
                                                         </div>
                                                         <div class="card-body">
-                                                            Entreprenuership I
+                                                            AccoutingmEvening I
                                                         </div>
                                                     </div>
 
-                                                    <div id="DiscreteMathEvening" class="collapse" aria-labelledby="headingThree" data-parent="#accordion200Sem1Evening">
+                                                    <div id="researchMethod200Sem1Evening" class="collapse" aria-labelledby="headingThree" data-parent="#accordion200Sem1Evening">
                                                         <div class="card-header float-right text-danger">
-                                                            Discrete Math
+                                                           Research Method
                                                         </div>
                                                         <div class="card-body">
-                                                            DiscreteMathEvening
+                                                            Research Method Evening
                                                         </div>
                                                     </div>
                                                 </div>
@@ -285,28 +285,26 @@
 
 
                                     <!-- Diploma Evening sem 1 Page -->
-                                    <div class="card">
-                                        <div id="diplomaEveningSem1" class="collapse" aria-labelledby="headingOne" data-parent="#accordionlevel_200_sem1">
-                                            <div class="card-body">
-                                                <h1 class="display-1">Diploma Evening</h1>
-                                            </div>
+                                    <div id="diploma200EveningSem1" class="collapse" aria-labelledby="headingOne" data-parent="#accordionlevel_200_sem1">
+                                        <div class="card-body">
+                                            <h1 class="display-1">Diploma Evening 200</h1>
                                         </div>
-                                    </div> <!-- Diploma Evening sem 1 Page -->
+                                    </div><!-- Diploma Evening sem 1 Page -->
 
                                     <!-- Diploma Regular sem 1 Page -->
 
-                                    <div id="diplomaRegularSem1" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionlevel_200_sem1">
+                                    <div id="diploma200RegularSem1" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionlevel_200_sem1">
                                         <div class="card-body">
-                                            <h1 class="display-1">Diploma Regular</h1>
+                                            <h1 class="display-1">Diploma Regular 200</h1>
                                         </div>
                                     </div>
                                     <!-- Diploma Regular sem 1 Page -->
 
 
                                     <!-- BTECH weekend sem 1 Page -->
-                                    <div id="btechWeekendSem1" class="collapse" aria-labelledby="headingThree" data-parent="#accordionlevel_200_sem1">
+                                    <div id="btech200WeekendSem1" class="collapse" aria-labelledby="headingThree" data-parent="#accordionlevel_200_sem1">
                                         <div class="card-body">
-                                            <h1 class="display-1">Oops! BTECH is NOW Coming </h1>
+                                            <h1 class="display-1">Oops! BTECH is NOW Coming 200 </h1>
                                         </div>
                                     </div>
                                     <!-- BTECH weekend sem 1 Page -->
@@ -317,232 +315,234 @@
                 </div><!-- Semester 1-->
 
                 <!-- Semester 2-->
-                <div id="Semester2" class="collapse " aria-labelledby="headingOne" data-parent="#level_semesters">
+                <div id="lvl200Semester2" class="collapse " aria-labelledby="headingOne" data-parent="#level200_semesters">
                     <div class="card-body">
                         <div class="text-danger text-right">
                             <h1 class="display-4" style="font-size:30px;">Semester 2</h1>
                         </div>
                         <div class="row">
                             <div class="col-sm-12">
-                                <div id="accordionlevel_100_sem2" style="padding: 0;">
+                                <div id="accordionlevel_200_sem2" style="padding: 0;">
                                     <div class="card-header text-center" style="width: auto;" id="headingOne" >
-                                        <!--level 100 hnd sem 1 dropdown-->
+                                        <!--level 200 hnd sem 2 dropdown-->
                                         <div style="padding: 2px;" class="btn-group" role="group" aria-label="Button group with nested dropdown">
                                             <div class="btn-group" role="group">
-                                                <button  id="levelHndSem2" type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                                <button  id="level200HndSem2" type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                                     HND
                                                 </button>
-                                                <div class="dropdown-menu" aria-labelledby="levelHndSem2">
-                                                    <a class="dropdown-item" data-toggle="collapse" data-target="#hndRegularSem2" aria-expanded="true" aria-controls="hndRegularSem2" href="#">
+                                                <div class="dropdown-menu" aria-labelledby="level200HndSem2">
+                                                    <a class="dropdown-item" data-toggle="collapse" data-target="#hnd200RegularSem2" aria-expanded="true" aria-controls="hnd200RegularSem2" href="#">
                                                         Regular
                                                     </a>
-                                                    <a class="dropdown-item" data-toggle="collapse" data-target="#hndEveningSem2" aria-expanded="true" aria-controls="hndEveningSem2" href="#">
+                                                    <a class="dropdown-item" data-toggle="collapse" data-target="#hnd200EveningSem2" aria-expanded="true" aria-controls="hnd200EveningSem2" href="#">
                                                         Evening
                                                     </a>
                                                 </div>
                                             </div>
-                                        </div><!--level 100 hnd sem 1 dropdown-->
+                                        </div><!--level 200 hnd sem 2 dropdown-->
 
-                                        <!--level 100 hnd sem 1 dropdown-->
+                                        <!--level 200 diploma sem 2 dropdown-->
                                         <div style="padding: 2px;" class="btn-group" role="group" aria-label="Button group with nested dropdown">
                                             <div class="btn-group" role="group">
-                                                <button id="level_100diplomaSem2" type="button" class="btn btn-success dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                                <button id="level_200diplomaSem2" type="button" class="btn btn-success dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                                     Diploma
                                                 </button>
-                                                <div class="dropdown-menu" aria-labelledby="level_100diplomaSem2">
-                                                    <a class="dropdown-item"  data-toggle="collapse" data-target="#diplomaRegularSem2" aria-expanded="false" aria-controls="diplomaRegularSem2" href="#">
+                                                <div class="dropdown-menu" aria-labelledby="level_200diplomaSem2">
+                                                    <a class="dropdown-item"  data-toggle="collapse" data-target="#diploma200RegularSem2" aria-expanded="false" aria-controls="diploma200RegularSem2" href="#">
                                                         Regular
                                                     </a>
-                                                    <a class="dropdown-item" data-toggle="collapse" data-target="#diplomaEveningSem2" aria-expanded="false" aria-controls="diplomaEveningSem2"  href="#">
+                                                    <a class="dropdown-item" data-toggle="collapse" data-target="#diploma200EveningSem2" aria-expanded="false" aria-controls="diploma200EveningSem2"  href="#">
                                                         Evening
                                                     </a>
                                                 </div>
                                             </div>
-                                        </div><!--level 100 hnd sem 1 dropdown-->
-                                        <button  class="btn btn-warning collapsed" data-toggle="collapse" data-target="#btechWeekendSem2" aria-expanded="false" aria-controls="btechWeekendSem2">
+                                        </div><!--level 200 diploma sem 1 dropdown-->
+                                        <button  class="btn btn-warning collapsed" data-toggle="collapse" data-target="#btech200WeekendSem2" aria-expanded="false" aria-controls="btech200WeekendSem1">
                                             BTECH
                                         </button>
                                     </div>
 
-                                    <!-- hnd REgular sem 1 Page -->
-                                    <div id="hndRegularSem2" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionlevel_100_sem2">
+                                    <!-- hnd REgular sem 2 Page -->
+                                    <div id="hnd200RegularSem2" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionlevel_200_sem2">
                                         <div class="row">
                                             <div class="col-sm-3">
                                                 <div class="card-text">
-                                                    <button class="btn btn-link" data-toggle="collapse" data-target="#javaSem2" aria-expanded="true" aria-controls="javaSem2">
-                                                        Java Programming
+                                                    <button class="btn btn-link" data-toggle="collapse" data-target="#networkingII200Sem2" aria-expanded="true" aria-controls="networkingII200Sem2">
+                                                        Networking II
                                                     </button>
                                                 </div>
                                                 <div class="card-text">
-                                                    <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#info-techIISem2" aria-expanded="false" aria-controls="info-techIISem2">
-                                                        Info-Tech II
+                                                    <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#web-tech_II200Sem2" aria-expanded="false" aria-controls="web-tech_II200Sem2">
+                                                        Web Technology II
                                                     </button>
                                                 </div>
                                                 <div class="card-text">
-                                                    <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#DatabaseConceptISem2" aria-expanded="false" aria-controls="DatabaseConceptISem2">
+                                                    <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#phpPrograming200Sem2" aria-expanded="false" aria-controls="phpPrograming200Sem2">
+                                                        PHP Programing
+                                                    </button>
+                                                </div>
+
+                                                <div class="card-text">
+                                                    <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#softwareEngin200Sem2" aria-expanded="false" aria-controls="softwareEngin200Sem2">
+                                                        Software Engineering
+                                                    </button>
+                                                </div>
+
+                                                <div class="card-text">
+                                                    <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#hard_TechII200Sem2" aria-expanded="false" aria-controls="hard_TechII200Sem2">
+                                                        Hardware Technology II
+                                                    </button>
+                                                </div>
+
+                                                <div class="card-text">
+                                                    <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#accountingII200Sem2" aria-expanded="false" aria-controls="accountingII200Sem2">
+                                                        Accounting II
+                                                    </button>
+                                                </div>
+
+                                                <div class="card-text">
+                                                    <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#entreprenuershipIISem2" aria-expanded="false" aria-controls="entreprenuershipIISem2">
+                                                        Entreprenuership
+                                                    </button>
+                                                </div>
+                                            </div>
+
+                                            <div class="col-sm-9">
+                                                <div id="accordion200sem2" style="padding: 0">
+                                                    <div id="networkingII200Sem2" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion200sem2">
+                                                        <div class="card-header float-right text-danger">
+                                                            Networking II
+                                                        </div>
+                                                        <div class="card-body">
+                                                            Networking II
+                                                        </div>
+                                                    </div>
+                                                    <div id="web-tech_II200Sem2" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion200sem2">
+                                                        <div class="card-header float-right  text-danger">
+                                                            Web Technology
+                                                        </div>
+                                                        <div class="card-body">
+                                                            Web Technology
+                                                        </div>
+                                                    </div>
+                                                    <div id="phpPrograming200Sem2" class="collapse" aria-labelledby="headingThree" data-parent="#accordion200sem2">
+                                                        <div class="card-header float-right text-danger">
+                                                            PHP Programing
+                                                        </div>
+                                                        <div class="card-body">
+                                                            PHP Programing
+                                                        </div>
+                                                    </div>
+
+                                                    <div id="softwareEngin200Sem2" class="collapse" aria-labelledby="headingThree" data-parent="#accordion200sem2">
+                                                        <div class="card-header float-right  text-danger">
+                                                            Software Engineering
+                                                        </div>
+                                                        <div class="card-body">
+                                                            Software Engineering
+                                                        </div>
+                                                    </div>
+
+                                                    <div id="hard_TechII200Sem2" class="collapse" aria-labelledby="headingThree" data-parent="#accordion200sem2">
+                                                        <div class="card-header float-right text-danger">
+                                                            Hardware Technology I
+                                                        </div>
+                                                        <div class="card-body">
+                                                            Hardware Technology I
+                                                        </div>
+                                                    </div>
+                                                    <div id="accountingII200Sem2" class="collapse" aria-labelledby="headingThree" data-parent="#accordion200sem2">
+                                                        <div class="card-header float-right  text-danger">
+                                                            Accounting II
+                                                        </div>
+                                                        <div class="card-body">
+                                                            Accounting II
+                                                        </div>
+                                                    </div>
+
+                                                    <div id="entreprenuershipIISem2" class="collapse" aria-labelledby="headingThree" data-parent="#accordion200sem2">
+                                                        <div class="card-header float-right text-danger">
+                                                            Entreprenuership
+                                                        </div>
+                                                        <div class="card-body">
+                                                            Entreprenuership
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div> <!-- hnd REgular 200 sem 2 Page -->
+
+
+                                    <!-- hnd Evening 200 sem 2 Page -->
+
+                                    <div id="hnd200EveningSem2" class="collapse" aria-labelledby="headingOne" data-parent="#accordionlevel_200_sem2">
+                                        <div class="row ">
+                                            <div class="col-sm-3 text-left">
+                                                <div class="card-text">
+                                                    <button class="btn btn-link" data-toggle="collapse" data-target="#networkingI200Sem2Evening" aria-expanded="true" aria-controls="networkingI200Sem2Evening">
+                                                        Networking I
+                                                    </button>
+                                                </div>
+
+                                                <div class="card-text">
+                                                    <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#webTech200Sem2Evening" aria-expanded="false" aria-controls="webTech200Sem2Evening">
+                                                        Web Technology II
+                                                    </button>
+                                                </div>
+
+                                                <div class="card-text">
+                                                    <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#databaseConceptI200sem2Evening" aria-expanded="false" aria-controls="databaseConceptI200sem2Evening">
                                                         Database Concept I
                                                     </button>
                                                 </div>
 
                                                 <div class="card-text">
-                                                    <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#Economics_IISem2" aria-expanded="false" aria-controls="Economics_IISem2">
-                                                        Economics II
+                                                    <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#visaulBasic200Sem2Evening" aria-expanded="false" aria-controls="visaulBasic200Sem2Evening">
+                                                        Visual Basic .NET
                                                     </button>
                                                 </div>
 
                                                 <div class="card-text">
-                                                    <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#Comm_Skils_IISem2" aria-expanded="false" aria-controls="Comm_Skils_IISem2">
-                                                        Comm-Skils II
+                                                    <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#hard_techI200Sem2Evening" aria-expanded="false" aria-controls="hard_techI200Sem2Evening">
+                                                        Hardware Technology
                                                     </button>
                                                 </div>
 
                                                 <div class="card-text">
-                                                    <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#AfricanStudiesSem2" aria-expanded="false" aria-controls="AfricanStudiesSem2">
-                                                        African Studies
+                                                    <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#accounting_I200Sem2Evening" aria-expanded="false" aria-controls="accounting_I200Sem2Evening">
+                                                        Accounting I
                                                     </button>
                                                 </div>
 
                                                 <div class="card-text">
-                                                    <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#MathAndStatSem2" aria-expanded="false" aria-controls="MathAndStatSem2">
-                                                        Maths & Stats
+                                                    <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#researchMethod200Sem2Evening" aria-expanded="false" aria-controls="researchMethod200Sem2Evening">
+                                                        Research Method
                                                     </button>
                                                 </div>
                                             </div>
 
                                             <div class="col-sm-9">
-                                                <div id="accordionLvl100Sem2" style="padding: 0">
-                                                    <div id="javaSem2" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionLvl100Sem2">
+                                                <div id="accordion200Sem2Evening" style="padding: 0">
+                                                    <div id="networkingI200Sem2Evening" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion200Sem2Evening">
                                                         <div class="card-header float-right text-danger">
-                                                            Java Programming
+                                                            Networking I
                                                         </div>
                                                         <div class="card-body">
-                                                            Java Programming
+                                                            Networking I Evening
                                                         </div>
                                                     </div>
-                                                    <div id="info-techIISem2" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionLvl100Sem2">
-                                                        <div class="card-header float-right  text-danger">
-                                                            Info-Tech II
-                                                        </div>
-                                                        <div class="card-body">
-                                                            Info-Tech II
-                                                        </div>
-                                                    </div>
-                                                    <div id="DatabaseConceptISem2" class="collapse" aria-labelledby="headingThree" data-parent="#accordionLvl100Sem2">
+
+                                                    <div id="webTech200Sem2Evening" class="collapse" aria-labelledby="headingThree" data-parent="#accordion200Sem2Evening">
                                                         <div class="card-header float-right text-danger">
-                                                            DatabaseConcept I
+                                                            Web Technlogy I
                                                         </div>
                                                         <div class="card-body">
-                                                            DatabaseConcept I
+                                                            Web Technlogy I Evening
                                                         </div>
                                                     </div>
 
-                                                    <div id="Economics_IISem2" class="collapse" aria-labelledby="headingThree" data-parent="#accordionLvl100Sem2">
-                                                        <div class="card-header float-right  text-danger">
-                                                            Economics II
-                                                        </div>
-                                                        <div class="card-body">
-                                                            Economics II
-                                                        </div>
-                                                    </div>
-
-                                                    <div id="Comm_Skils_IISem2" class="collapse" aria-labelledby="headingThree" data-parent="#accordionLvl100Sem2">
-                                                        <div class="card-header float-right text-danger">
-                                                            Comm-Skils II
-                                                        </div>
-                                                        <div class="card-body">
-                                                            Comm-Skils II
-                                                        </div>
-                                                    </div>
-                                                    <div id="AfricanStudiesSem2" class="collapse" aria-labelledby="headingThree" data-parent="#accordionLvl100Sem2">
-                                                        <div class="card-header float-right  text-danger">
-                                                            African Studies
-                                                        </div>
-                                                        <div class="card-body">
-                                                            African Studies
-                                                        </div>
-                                                    </div>
-
-                                                    <div id="MathAndStatSem2" class="collapse" aria-labelledby="headingThree" data-parent="#accordionLvl100Sem2">
-                                                        <div class="card-header float-right text-danger">
-                                                            Math And Stats
-                                                        </div>
-                                                        <div class="card-body">
-                                                            Math And Stats
-                                                        </div>
-                                                    </div>
-
-
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div> <!-- hnd REgular sem 2 Page -->
-
-
-                                    <!-- hnd Evening sem 2 Page -->
-
-                                    <div id="hndEveningSem2" class="collapse" aria-labelledby="headingOne" data-parent="#accordionlevel_100_sem2">
-                                        <div class="row ">
-                                            <div class="col-sm-3 text-left">
-                                                <div class="card-text">
-                                                    <button class="btn btn-link" data-toggle="collapse" data-target="#JavaEveningSem2" aria-expanded="true" aria-controls="JavaEveningSem2">
-                                                        Java Programming
-                                                    </button>
-                                                </div>
-                                                <div class="card-text">
-                                                    <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#info-techIIEveningSEm2" aria-expanded="false" aria-controls="info-techIIEveningSem2">
-                                                        Info-Tech II
-                                                    </button>
-                                                </div>
-                                                <div class="card-text">
-                                                    <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#DatabaseConceptISem2Evening" aria-expanded="false" aria-controls="DatabaseConceptISem2Evening">
-                                                        DatabaseConcept I
-                                                    </button>
-                                                </div>
-
-                                                <div class="card-text">
-                                                    <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#Economics_IIEveningSem2" aria-expanded="false" aria-controls="Economics_IIEveningSem2">
-                                                        Economics II
-                                                    </button>
-                                                </div>
-
-                                                <div class="card-text">
-                                                    <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#Comm_Skils_IIEveningSem2" aria-expanded="false" aria-controls="Comm_Skils_IIEveningSem2">
-                                                        Comm-Skils II
-                                                    </button>
-                                                </div>
-
-                                                <div class="card-text">
-                                                    <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#AfricanStudiesEvening2" aria-expanded="false" aria-controls="AfricanStudiesEvening2">
-                                                        African Studies
-                                                    </button>
-                                                </div>
-
-                                                <div class="card-text">
-                                                    <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#MathAndStatEveningSem2" aria-expanded="false" aria-controls="MathAndStatEveningSem2">
-                                                        Maths And Stats
-                                                    </button>
-                                                </div>
-                                            </div>
-
-                                            <div class="col-sm-9">
-                                                <div id="accordionSem2Evening" style="padding: 0">
-                                                    <div id="JavaEveningSem2" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionSem2Evening">
-                                                        <div class="card-header float-right text-danger">
-                                                            Java Programming
-                                                        </div>
-                                                        <div class="card-body">
-                                                            Java Evening
-                                                        </div>
-                                                    </div>
-                                                    <div id="info-techIIEveningSEm2" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSem2Evening">
-                                                        <div class="card-header float-right text-danger">
-                                                            Info-Tech II
-                                                        </div>
-                                                        <div class="card-body">
-                                                            Info-Tech Evening
-                                                        </div>
-                                                    </div>
-                                                    <div id="DatabaseConceptISem2Evening" class="collapse" aria-labelledby="headingThree" data-parent="#accordionSem2Evening">
+                                                    <div id="databaseConceptI200sem2Evening" class="collapse" aria-labelledby="headingThree" data-parent="#accordion200Sem2Evening">
                                                         <div class="card-header float-right text-danger">
                                                             Database Concept I
                                                         </div>
@@ -551,39 +551,39 @@
                                                         </div>
                                                     </div>
 
-                                                    <div id="Economics_IIEveningSem2" class="collapse" aria-labelledby="headingThree" data-parent="#accordionSem2Evening">
+                                                    <div id="visaulBasic200Sem2Evening" class="collapse" aria-labelledby="headingThree" data-parent="#accordion200Sem2Evening">
                                                         <div class="card-header float-right text-danger">
-                                                            Economics II
+                                                            Visaul Basic
                                                         </div>
                                                         <div class="card-body">
-                                                            Economics II Evening
+                                                            visaulBasic Evening
                                                         </div>
                                                     </div>
 
-                                                    <div id="Comm_Skils_IIEveningSem2" class="collapse" aria-labelledby="headingThree" data-parent="#accordionSem2Evening">
+                                                    <div id="hard_techI200Sem2Evening" class="collapse" aria-labelledby="headingThree" data-parent="#accordion200Sem2Evening">
                                                         <div class="card-header float-right text-danger">
-                                                            Comm-Skils II
+                                                            Hardware Technology I
                                                         </div>
                                                         <div class="card-body">
-                                                            Comm-Skils II Evening
+                                                            Hardware Technology Evening I
                                                         </div>
                                                     </div>
 
-                                                    <div id="AfricanStudiesEvening2" class="collapse" aria-labelledby="headingThree" data-parent="#accordionSem2Evening">
+                                                    <div id="accounting_I200Sem2Evening" class="collapse" aria-labelledby="headingThree" data-parent="#accordion200Sem2Evening">
                                                         <div class="card-header float-right text-danger">
-                                                            African Studies Evening
+                                                            Accouting I
                                                         </div>
                                                         <div class="card-body">
-                                                            African Studies I
+                                                            AccoutingmEvening I
                                                         </div>
                                                     </div>
 
-                                                    <div id="MathAndStatEveningSem2" class="collapse" aria-labelledby="headingThree" data-parent="#accordionSem2Evening">
+                                                    <div id="researchMethod200Sem2Evening" class="collapse" aria-labelledby="headingThree" data-parent="#accordion200Sem2Evening">
                                                         <div class="card-header float-right text-danger">
-                                                            Maths And Stats
+                                                            Research Method
                                                         </div>
                                                         <div class="card-body">
-                                                            Maths And Stats Evening
+                                                            Research Method Evening
                                                         </div>
                                                     </div>
                                                 </div>
@@ -593,31 +593,29 @@
 
 
                                     <!-- Diploma Evening sem 1 Page -->
-                                    <div class="card">
-                                        <div id="diplomaEveningSem1" class="collapse" aria-labelledby="headingOne" data-parent="#accordionlevel_200_sem1">
-                                            <div class="card-body">
-                                                <h1 class="display-1">Diploma Evening</h1>
-                                            </div>
+                                    <div id="diploma200EveningSem2" class="collapse" aria-labelledby="headingOne" data-parent="#accordionlevel_200_sem2">
+                                        <div class="card-body">
+                                            <h1 class="display-1">Diploma Evening s200</h1>
                                         </div>
-                                    </div> <!-- Diploma Evening sem 1 Page -->
+                                    </div><!-- Diploma Evening sem 1 Page -->
 
                                     <!-- Diploma Regular sem 1 Page -->
-                                    <div class="card">
-                                        <div id="diplomaRegularSem1" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionlevel_200_sem1">
-                                            <div class="card-body">
-                                                <h1 class="display-1">Diploma Regular</h1>
-                                            </div>
+
+                                    <div id="diploma200RegularSem2" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionlevel_200_sem2">
+                                        <div class="card-body">
+                                            <h1 class="display-1">Diploma Regular s200</h1>
                                         </div>
-                                    </div> <!-- Diploma Regular sem 1 Page -->
+                                    </div>
+                                    <!-- Diploma Regular sem 1 Page -->
+
 
                                     <!-- BTECH weekend sem 1 Page -->
-                                    <div class="card">
-                                        <div id="btechWeekendSem1" class="collapse" aria-labelledby="headingThree" data-parent="#accordionlevel_200_sem1">
-                                            <div class="card-body">
-                                                <h1 class="display-1">Oops! BTECH is NOW Coming </h1>
-                                            </div>
+                                    <div id="btech200WeekendSem2" class="collapse" aria-labelledby="headingThree" data-parent="#accordionlevel_200_sem2">
+                                        <div class="card-body">
+                                            <h1 class="display-1">Oops! BTECH is NOW Coming s200 </h1>
                                         </div>
-                                    </div> <!-- BTECH weekend sem 1 Page -->
+                                    </div>
+                                    <!-- BTECH weekend sem 1 Page -->
                                 </div>
                             </div>
                         </div><!-- row -->
